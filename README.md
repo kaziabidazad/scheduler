@@ -1,2 +1,2 @@
 # scheduler
-Simple pure java based scheduler
+Simple Spring based scheduler
